@@ -1,2 +1,9 @@
-# NIbiru
+# Nibiru
 Say, Hi!
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xEd21c9826AbA646Ee3fe4aA7D9201816653fF004'
+quorum: 1
+
